@@ -1,0 +1,3 @@
+[submodule "Stream-Me-Frontend"]
+	path = Stream-Me-Frontend
+	url = https://github.com/bhumika-1127/Stream-Me-Frontend.git
