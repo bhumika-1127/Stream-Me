@@ -27,4 +27,4 @@ RUN npm install
 EXPOSE 4000
 
 # Set the command to run the application with nodemon
-CMD ["nodemon", "backend/index.js"]
+CMD ["nodemon", "index.js"]
